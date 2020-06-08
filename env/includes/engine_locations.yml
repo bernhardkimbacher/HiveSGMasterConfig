@@ -29,7 +29,7 @@ engines.tk-aftereffects.location:
 engines.tk-desktop.location:
   type: app_store
   name: tk-desktop
-  version: v2.4.14
+  version: v2.5.3
 
 # Desktop2
 engines.tk-desktop2.location:
