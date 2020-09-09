@@ -188,6 +188,7 @@ settings.tk-nuke.shot_step:
   - display_name: "Shot Publish Path"
     template_directory: "shot_publish_area_nuke"
     icon: "icons/custom_publish_icon.png"
+  compatibility_dialog_min_version: 13
 
 
 
